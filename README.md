@@ -2,6 +2,8 @@
 
 Free companion to the existing BaptistSec security resources. For small businesses checking supplier payment requests, not a new training topic or qualification.
 
+[tidydesksoftware@outlook.com](mailto:tidydesksoftware@outlook.com)
+
 ## Use it
 
 Open `payment-check.html` (`index.html` is an identical copy for the hosted site) in a browser, or use `payment-check-card-and-record.pdf`. The PDF has a one-page check card, a blank record and a fictional example with sources. `blank-payment-check-record.docx` is an editable record for your own protected files.
